@@ -1,11 +1,23 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #c7cad0;
 }
 h1 {
-    color: rgb(255,0, 0);
-    font-size: 25px;
-    font-family: 'Segoe UI';
-    background-color: black;
+    text-align: center;
+    color: #bc6cd9;
+}
+h2{
+    color: #bc6cd9;
+}
+.registrar{
+    border-radius: 5px;
+    color: #272625;
+    background-color: #6ded74;
+
+}
+.iniciar_sesion{
+    border-radius: 5px;
+    color: #272625;
+    background-color: #6ded74;
 }
 p {
     font-size: large;
@@ -32,6 +44,8 @@ ul li {
     border-radius: 5px;
     background-color: rgb(0,0,255);
 }
+
 .etiqueta{
-    background-color: blue;
+    color: #272625;
+    background-color: rgb(224, 30, 186);
 }
