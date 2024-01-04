@@ -1,3 +1,3 @@
 # Programacion Web
-Nombre: Ramos Acarapi Franklin 
-Materia: INF-122
+NOMBRE: Ramos Acarapi Franklin 
+MATERIA: INF-122
