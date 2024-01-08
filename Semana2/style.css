@@ -1,0 +1,54 @@
+body {
+    background-color: #f1f2f5;
+}
+h1 {
+    color: #090909;
+}
+h2{
+    color: #060506;
+}
+.registrar{
+    border-radius: 5px;
+    color: #272625;
+    background-color: #6ded74;
+
+}
+.iniciar_sesion{
+    border-radius: 5px;
+    color: #272625;
+    background-color: #6ded74;
+}
+p {
+    font-weight: arial;
+    color:rgb(6, 6, 6);
+}
+img{
+    max-width: 25%;
+    max-height: 25%;
+}
+ol li {
+    font-size: 30px;
+    color: blueviolet;
+}
+ul li {
+    color: #060506;
+}
+
+.enviar{
+    border-radius: 5px;
+    background-color: rgb(0,0,255);
+}
+
+.etiqueta{
+    color: #272625;
+    background-color: rgb(224, 30, 186);
+}
+.boton{
+    border-radius: 5px;
+    background-color: #6ded74;
+    color: #fefefe;
+    border-color: #fefefe00;
+}
+input{
+ color: #939392;
+}
