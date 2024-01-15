@@ -1,0 +1,32 @@
+:root{
+    --orange:#FF872c;
+    --white:#dcdce5;
+    --sm:24px;
+}
+button{
+    width: 300px;
+    height: 80px;
+    font-family: roboto, sana-serif;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    font-size: var(--sm);
+    background-color: var(--orange);
+}
+button:hover{
+    background-color: var(--white);
+    color: var(--orange);
+    
+}
+.boton-click{
+    width: 150px;
+
+    
+}
+.contendedor-botones{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) ;
+    justify-items: center;
+    align-items: center;
+    
+  }
