@@ -1,9 +1,11 @@
-import React from "react";
-import Cuadro from './Cuadro.js'
-function Tableros({ cuadros, onClick }) {
+import React from 'react';
+import CuadroA from './Cuadro';
+import '../style/Tablero.css';
+
+function Tablerox({ cuadros, onClick }) {
     function renderizarCuadro(i) {
         return (
-            <Cuadro
+            <CuadroA
                 valor={cuadros[i]}
                 funcion={() => onClick(i)}
             />
@@ -26,4 +28,4 @@ function Tableros({ cuadros, onClick }) {
         </div>
     );
 }
-export default Tableros;
+export default Tablerox;

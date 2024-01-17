@@ -1,13 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import Tablero from './component/Tablero';
-import Tableros from './component/tableros';
+import Juegos from './component/Juegos';
 
 function App() {
   return (
     <div className="App">
       {/* <Tablero/> */}
-      <Tableros/>
+      <Juegos/>
     </div>
   );
 }
