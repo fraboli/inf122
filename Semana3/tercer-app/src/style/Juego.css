@@ -1,0 +1,7 @@
+.Juego button{
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: #9a1a1a;
+    cursor: pointer;
+}
